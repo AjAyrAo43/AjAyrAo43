@@ -8,18 +8,17 @@
 
 ---
 
-<img align="right" width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
+<div align="center">
 ```python
 class AIEngineer:
     def __init__(self):
-        self.name        = "Ajay Rao"
-        self.degree      = "M.Sc AI & ML — IIIT Lucknow"
-        self.location    = "India 🇮🇳"
-        self.stack       = ["LangChain", "LangGraph", "FastAPI",
-                            "RAG", "HuggingFace", "Docker", "AWS"]
-        self.focus       = "Autonomous AI Agents & LLM pipelines"
-        self.currently   = "Building Code Review Agent 🤖"
-        self.ask_me      = "Anything about GenAI & LLMs 💬"
+        self.name      = "Ajay Rao"
+        self.degree    = "M.Sc AI & ML — IIIT Lucknow"
+        self.location  = "India 🇮🇳"
+        self.stack     = ["LangChain", "LangGraph", "FastAPI",
+                          "RAG", "HuggingFace", "Docker", "AWS"]
+        self.focus     = "Autonomous AI Agents & LLM pipelines"
+        self.building  = "Code Review Agent 🤖"
 
     def say_hi(self):
         print("Let's build something with AI! 🚀")
@@ -28,7 +27,7 @@ me = AIEngineer()
 me.say_hi()
 ```
 
-<br clear="right"/>
+</div>
 
 ---
 
@@ -82,7 +81,7 @@ me.say_hi()
 <div align="center">
 
 | 🏗️ Project | 📝 Description | 🛠️ Stack |
-|:---:|:---:|:---:|
+|:---|:---|:---|
 | 🤖 **Autonomous Code Review Agent** | GitHub PR reviewer — detects bugs, security issues, posts inline comments | Claude API · GitHub Actions · Docker |
 | 🏥 **Medical RAG Chatbot** | Query expansion + hybrid retrieval + re-ranking over medical docs | LangChain · Pinecone · Groq · FastAPI |
 | ✍️ **AI Blog Writing Agent** | Multi-agent pipeline that researches, writes and formats blog posts | LangGraph · OpenAI · Streamlit |
