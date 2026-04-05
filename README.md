@@ -13,7 +13,7 @@
 ```python
 class AIEngineer:
     def __init__(self):
-        self.name      = "Ajay Rao"
+        self.name      = "Ajay"
         self.degree    = "M.Sc AI & ML — IIIT Lucknow"
         self.location  = "India"
         self.stack     = ["LangChain", "LangGraph", "FastAPI",
