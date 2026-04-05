@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Ajay%20Rao&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=AI%20Engineer%20%7C%20LLM%20Systems%20%7C%20GenAI&descSize=16&descAlignY=55"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Ajay&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=AI%20Engineer%20%7C%20LLM%20Systems%20%7C%20GenAI&descSize=16&descAlignY=55"/>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Building+Autonomous+AI+Agents;RAG+Pipelines+%7C+LLM+Systems+%7C+GenAI;M.Sc+AI+%26+ML+%40+IIIT+Lucknow;Turning+ideas+into+AI-powered+products)](https://git.io/typing-svg)
 
